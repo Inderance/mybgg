@@ -12,3 +12,4 @@ idna==2.6                 # via requests
 requests-cache==0.4.13    # via boardgamegeek2
 requests==2.18.4          # via algoliasearch, boardgamegeek2, requests-cache
 urllib3==1.22             # via requests
+pip install -r requirements.txt
